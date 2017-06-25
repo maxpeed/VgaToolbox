@@ -1,0 +1,25 @@
+{
+  "name": "vgait/vga-toolbox",
+  "description": "A set of tools that could be useful",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Henrik Hansen",
+      "email": "henrik@vgait.se"
+    }
+  ],
+  "require": {
+    "vgait/vga-exception": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Vgait\\VgaToolbox\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Vgait\\VgaToolbox\\Tests\\": "tests/"
+    }
+  }
+}

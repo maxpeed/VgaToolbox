@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5de56df6a7ae675f27daca6de0fb67a0",
+    "packages": [
+        {
+            "name": "vgait/vga-exception",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/maxpeed/VgaException.git",
+                "reference": "621a17bef6900801a798ffe413dc00ae100fb02b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/maxpeed/VgaException/zipball/621a17bef6900801a798ffe413dc00ae100fb02b",
+                "reference": "621a17bef6900801a798ffe413dc00ae100fb02b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^6.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Vgait\\VgaException\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Free"
+            ],
+            "authors": [
+                {
+                    "name": "Henrik Hansen",
+                    "email": "henrik@vgait.se",
+                    "homepage": "http://www.vgait.se/",
+                    "role": "The Boss"
+                }
+            ],
+            "description": "Vga Exception base class",
+            "time": "2017-06-24T21:16:32+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
