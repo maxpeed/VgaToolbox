@@ -3,9 +3,9 @@
  * Created: 2016-12-11 15:05
  */
 
-namespace Vgait\VgaTools;
+namespace Vgait\Toolbox;
 
-class RandomizeTools {
+class Randomize {
 
     /**
      * Generates a random string with length given.
