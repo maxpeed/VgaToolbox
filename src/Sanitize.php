@@ -1,5 +1,5 @@
 <?php
-namespace Libs\Tools;
+namespace Vgait\Toolbox;
 
 /**
  * Created by PhpStorm.
@@ -7,7 +7,7 @@ namespace Libs\Tools;
  * Date: 2016-09-07
  * Time: 16:27
  */
-class SanitizeTools {
+class Sanitize {
 
 	/**
 	 * @param      $number

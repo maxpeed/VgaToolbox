@@ -18,12 +18,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Vgait\\VgaToolbox\\": "src/"
+      "Vgait\\Toolbox\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Vgait\\VgaToolbox\\Tests\\": "tests/"
+      "Vgait\\Toolbox\\Tests\\": "tests/"
     }
   }
 }
